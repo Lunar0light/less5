@@ -1,0 +1,3 @@
+Petrov 20000
+Ivanov 10000
+Terentyev 15000
